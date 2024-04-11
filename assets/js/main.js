@@ -1,3 +1,14 @@
-//
+//1 CREATE FUNCTION translateFromEnglish()
 
-console.log("link")
+function translateFromEnglish(){
+    
+}
+
+//2 CREATE FUNCTION translateFromMorse()
+
+function translateFromMorse() {
+
+
+}
+
+console.log("linked")

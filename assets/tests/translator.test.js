@@ -1,1 +1,3 @@
-// 
+// translateFromEnglish()
+
+// translateFromMorse()
